@@ -27,4 +27,4 @@ rpm -Uvh nfs-utils-1.3.0-0.48.el7_4.2.x86_64.rpm
 systemctl enable nfs-server.service
 systemctl start nfs-server.service
 
-echo "The nfs-utils was installed !!!\n [ I T 4 U S ]";
+echo "The nfs-utils was installed !!!";
