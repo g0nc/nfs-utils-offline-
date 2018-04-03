@@ -1,7 +1,6 @@
 
 #libs and nfs-utils setup#####
-#coded by matheus silva###
-#it4us#
+#coded by matheus silva - anhax0r###
 
 
 
